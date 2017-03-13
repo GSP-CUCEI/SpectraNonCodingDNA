@@ -7,7 +7,9 @@ You can use it only for investigation.
 Order of scripts is:
 
 1.- FourierCoefficientsMatrix
+
 2.- LastNormalization
+
 3.- TextAllGenome
 
 
